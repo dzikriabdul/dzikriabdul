@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Banner / Header -->
-<h1 align="center">Hi there, I'm Muhammad Dzikri Abdul Muti 👋</h1>
+<h1 align="center"> I'm Muhammad Dzikri Abdul Muti 👋</h1>
 <h3 align="center">💻 Mahasiswa | 💡 Programmer | 🚀 Belajar Struktur Data & Database</h3>
 
 ---
