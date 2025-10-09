@@ -13,7 +13,7 @@ Aku suka mengeksplor **C++**, **Java**, dan **PostgreSQL**, serta senang mempela
 - ⚙️ Bahasa yang sering kupakai: `C++`, `Java`, `SQL`
 - 💬 Tanya aku tentang: dasar pemrograman, algoritma, atau database
 - 🎯 Tujuan: Menjadi backend developer yang handal
-- 📫 Email: **dzikri@example.com**
+- 📫 Email: **dzikriabdul@gmail.com**
 
 ---
 
