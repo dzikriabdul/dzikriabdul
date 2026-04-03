@@ -27,7 +27,7 @@ Saya senang belajar hal baru dan terus meningkatkan skill melalui project dan tu
 ---
 
 ## 📈 Statistik GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzikriabdul&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dzikriabdul&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
