@@ -1,8 +1,7 @@
 # 👋 Halo, saya Muhammad Dzikri Abdul Muti
-
-#🎓 Mahasiswa Universitas Suryakancana
-#📚 Kelas: IF - B 2024 
-#🆔 NPM  : 5520124043 
+##🎓 Mahasiswa Universitas Suryakancana
+##📚 Kelas: IF - B 2024 
+##🆔 NPM  : 5520124043 
 
 ---
 
